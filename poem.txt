@@ -1,2 +1,7 @@
 Class is like a recipe
 Objects are like cookies
+
+Roses are red,
+Apples are ripe,
+if you dont import
+you'll just have to type
