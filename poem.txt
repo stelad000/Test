@@ -1,0 +1,2 @@
+Class is like a recipe
+Objects are like cookies
